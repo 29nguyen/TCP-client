@@ -1,0 +1,4 @@
+This is the Elechanics interface. 
+
+Updated 06/17/2015.
+Add TCPclient and Myo to Elechanics interface
